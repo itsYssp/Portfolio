@@ -7,7 +7,7 @@
     scroll-behavior: smooth;
 }
 body{
-    background: url("/images/bg.jpeg");
+    background: url("images\bg.jpeg");
     background-attachment: fixed;
     background-position: center;
     background-size:cover;
